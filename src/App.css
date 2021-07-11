@@ -1,0 +1,161 @@
+.img{
+    size: 80px;
+    padding: 2px;
+    display: none;
+    justify-content: center;
+    text-align: center;
+
+}
+.form-control{
+    padding: 10pxpx;
+    border: #f35b38;
+    border-radius: 2px;
+    margin: 3px;
+    
+}
+.button:hover{
+    color: #f3e038;
+    cursor: pointer;
+   background-color:black;
+    margin: auto;
+}
+.img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: absolute;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+}
+.storytext {
+    width: 80%;
+    margin: 1em auto 1em;
+    font-size: 20px;
+}
+.text-center {
+    text-align: center;
+}
+p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+p {
+    margin: 0 0 10px;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.light {
+    color: #fff;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    text-align: center;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.966);
+    background-color: #fff;
+    background-image: url("./Media/escape-rooms-bg.jpg");
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p{
+    font-size: 2.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100%;
+    
+}
+
+.puzzle{
+    justify-content: center;
+
+ display: flex;
+ padding: 5px;
+
+ 
+}
+
+.pass_room1{
+    display: flex;
+    padding-right: 25px;
+
+}
+
+hr {
+    max-width: 50px;
+    border-color: #f35b38;
+    border-width: 3px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+hr {
+    height: 0;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.light {
+    color: #fff;
+}
