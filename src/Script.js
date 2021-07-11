@@ -1,12 +1,11 @@
 function validation(){
-    
+    alert("hello");
     var pw =document.getElementById("password").value;
-
-  if(pw =="CLOCK") {  
+    var pass ="CLOCK";
+  if(pw === pass) {  
     alert ("Your password correct ");
     
     } else {  
-        
-        alert ("Your password incorrect! Please Enter right password ");  
+        alert("Your password incorrect! Please Enter right password ");  
     } 
 }

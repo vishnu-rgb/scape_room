@@ -25,7 +25,7 @@ function Scape_room1()
                 </div>
                 
                 
-                <form  action="scaperoom2" >
+                <form  >
                 <div className="_1toD0">
                     <div className="_1TTNX">
                     <div className="_3FJnW">Please enter the password below.</div>
@@ -35,13 +35,14 @@ function Scape_room1()
                                 <input id="password" placeholder="Password" type="password" required="" name=""/>
                                 </div></div>
                                 <div className="h71Pg"><p className="Nrnr8" data-testid="errorMessage" >
-
-                                </p><button type="submit" className="button" data-testid="submitButton"  onSubmit="validation()">Go</button>
+                                
+                                </p><button type="submit" className="button" data-testid="submitButton"  onClick= "validation()">Go</button>
                                 </div></div>
+                                
                 </form>
                 </div>
                     <h1>Hint!</h1>
-                    <p>Every problem has answer in his beginnig </p>
+                    <p>Every problem has answer in the beginnig </p>
                 </div>
                 
             
