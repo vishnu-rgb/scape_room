@@ -1,7 +1,7 @@
 import React from "react";
 import './App.css';
 import Img from './Media/img_1.jpg';
-import './Script.js';
+
 function Scape_room1()
     {
     return(
@@ -38,7 +38,6 @@ function Scape_room1()
                                 
                                 </p><button type="submit" className="button" data-testid="submitButton"  onClick= "validation()">Go</button>
                                 </div></div>
-                                
                 </form>
                 </div>
                     <h1>Hint!</h1>
